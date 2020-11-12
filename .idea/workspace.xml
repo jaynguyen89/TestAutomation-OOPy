@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9358249-6cf6-4d03-b38d-56e6fcf1bb85" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1WdGoH3V6eFfhdhpaGdHpbvwTfd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jay\Documents\WORK\JuiceNextGen.Web\JuiceNextGen.ReactWeb\tests\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.program">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/gateway" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/gateway/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/gateway_command" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/gateway_command/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/authentication" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/authentication/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in meter_list.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/meter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/meter/meter_list.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.program" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Unittests in meter_list.py" />
+        <item itemvalue="Python.main (3)" />
+        <item itemvalue="Python.main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9358249-6cf6-4d03-b38d-56e6fcf1bb85" name="Default Changelist" comment="" />
+      <created>1579472232626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579472232626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2671" y="893" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580163785158">
+      <screen x="1982" y="548" width="1858" height="1080" />
+    </state>
+    <state x="2671" y="893" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080/1982.548.1858.1080@1982.548.1858.1080" timestamp="1580163785158" />
+    <state x="2518" y="683" key="CommitChangelistDialog2" timestamp="1580702565966">
+      <screen x="1982" y="548" width="1858" height="1080" />
+    </state>
+    <state x="2518" y="683" key="CommitChangelistDialog2/1982.548.1858.1080/62.0.1858.1080@1982.548.1858.1080" timestamp="1580702565966" />
+    <state width="1838" height="50" key="GridCell.Tab.0.bottom" timestamp="1580796178395">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1838" height="582" key="GridCell.Tab.0.bottom/1982.548.1858.1080/62.0.1858.1080@1982.548.1858.1080" timestamp="1580782187706" />
+    <state width="1838" height="50" key="GridCell.Tab.0.bottom/1982.548.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1580796178395" />
+    <state width="1838" height="187" key="GridCell.Tab.0.bottom/62.0.1858.1080/1982.548.1858.1080@1982.548.1858.1080" timestamp="1580277476003" />
+    <state width="1838" height="103" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1580785437135" />
+    <state width="1838" height="50" key="GridCell.Tab.0.center" timestamp="1580796178395">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1838" height="582" key="GridCell.Tab.0.center/1982.548.1858.1080/62.0.1858.1080@1982.548.1858.1080" timestamp="1580782187706" />
+    <state width="1838" height="50" key="GridCell.Tab.0.center/1982.548.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1580796178395" />
+    <state width="1838" height="187" key="GridCell.Tab.0.center/62.0.1858.1080/1982.548.1858.1080@1982.548.1858.1080" timestamp="1580277476003" />
+    <state width="1838" height="103" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1580785437135" />
+    <state width="1838" height="50" key="GridCell.Tab.0.left" timestamp="1580796178395">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1838" height="582" key="GridCell.Tab.0.left/1982.548.1858.1080/62.0.1858.1080@1982.548.1858.1080" timestamp="1580782187706" />
+    <state width="1838" height="50" key="GridCell.Tab.0.left/1982.548.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1580796178395" />
+    <state width="1838" height="187" key="GridCell.Tab.0.left/62.0.1858.1080/1982.548.1858.1080@1982.548.1858.1080" timestamp="1580277476003" />
+    <state width="1838" height="103" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1580785437135" />
+    <state width="1838" height="50" key="GridCell.Tab.0.right" timestamp="1580796178395">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1838" height="582" key="GridCell.Tab.0.right/1982.548.1858.1080/62.0.1858.1080@1982.548.1858.1080" timestamp="1580782187706" />
+    <state width="1838" height="50" key="GridCell.Tab.0.right/1982.548.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1580796178395" />
+    <state width="1838" height="187" key="GridCell.Tab.0.right/62.0.1858.1080/1982.548.1858.1080@1982.548.1858.1080" timestamp="1580277476003" />
+    <state width="1838" height="103" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1580785437135" />
+    <state x="2412" y="731" key="SettingsEditor" timestamp="1579817905126">
+      <screen x="1982" y="548" width="1858" height="1080" />
+    </state>
+    <state x="2412" y="731" key="SettingsEditor/1982.548.1858.1080/62.0.1858.1080@1982.548.1858.1080" timestamp="1579817905126" />
+    <state x="687" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1580854010119">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2607" y="912" key="com.intellij.ide.util.TipDialog/1982.548.1858.1080/62.0.1858.1080@1982.548.1858.1080" timestamp="1580682076422" />
+    <state x="687" y="364" key="com.intellij.ide.util.TipDialog/1982.548.1858.1080/62.0.1858.1080@62.0.1858.1080" timestamp="1580854010119" />
+    <state x="2607" y="912" key="com.intellij.ide.util.TipDialog/62.0.1858.1080/1982.548.1858.1080@1982.548.1858.1080" timestamp="1580163384743" />
+    <state x="687" y="364" key="com.intellij.ide.util.TipDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1580786667121" />
+    <state x="2613" y="830" width="595" height="516" key="find.popup" timestamp="1580254048163">
+      <screen x="1982" y="548" width="1858" height="1080" />
+    </state>
+    <state x="2613" y="830" width="595" height="516" key="find.popup/62.0.1858.1080/1982.548.1858.1080@1982.548.1858.1080" timestamp="1580254048163" />
+    <state x="2617" y="936" width="692" height="304" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1579731904430">
+      <screen x="1982" y="548" width="1858" height="1080" />
+    </state>
+    <state x="2617" y="936" width="692" height="304" key="org.intellij.images.editor.actions.BackgroundImageDialog/1982.548.1858.1080/62.0.1858.1080@1982.548.1858.1080" timestamp="1579731904430" />
+    <state x="2574" y="783" width="672" height="678" key="search.everywhere.popup" timestamp="1580780668027">
+      <screen x="1982" y="548" width="1858" height="1080" />
+    </state>
+    <state x="2574" y="783" width="672" height="678" key="search.everywhere.popup/1982.548.1858.1080/62.0.1858.1080@1982.548.1858.1080" timestamp="1580780668027" />
+    <state x="2574" y="783" width="672" height="678" key="search.everywhere.popup/62.0.1858.1080/1982.548.1858.1080@1982.548.1858.1080" timestamp="1580253619622" />
+  </component>
+</project>
